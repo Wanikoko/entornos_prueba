@@ -1,0 +1,20 @@
+
+inicio{
+
+	int valor = 0;
+	int kSecreto = 241;
+	
+	imprimir “Introduce un numero cualquiera para ver si coincide con el numero secreto: ";
+	leer valor;
+	
+		si  ( valor == kSecreto ){
+		
+			imprimir "Has acertado!";
+			
+		}si-no{
+			
+			imprimir “Numero fallido, GAME OVER”;
+			
+		}fin-si
+	
+}fin
