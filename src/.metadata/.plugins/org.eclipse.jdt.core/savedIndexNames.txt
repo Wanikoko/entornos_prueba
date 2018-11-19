@@ -1,6 +1,0 @@
-INDEX VERSION 1.130+/media/mati/PS3/Batoi/Programación/Práctica 3/src/.metadata/.plugins/org.eclipse.jdt.core
-608746838.index
-502732891.index
-1175494123.index
-2098393953.index
-2744878784.index
